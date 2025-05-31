@@ -1,0 +1,10 @@
+{
+  "name": "ai-code-editor",
+  "version": "0.1.0",
+  "description": "AI-powered code editor with multi-agent system",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python -m app.main"
+  },
+  "license": "MIT"
+}
